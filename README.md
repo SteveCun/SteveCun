@@ -33,7 +33,7 @@ Nice to meet you! I'm currently a student at Bina Nusantara University, majoring
       <td><a href="https://stvnncun.itch.io/hopeless-2502000514"> Itch Page</td>
 
   </tbody>
-</table>
+
 
 # <h3 align="left">Connect with me:</h3>
 <p align="left">
